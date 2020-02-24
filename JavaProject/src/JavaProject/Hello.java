@@ -7,5 +7,8 @@ public class Hello {
 		
 		// 파일 수정 수졍~
 		System.out.println("hong hong ~~");
+		
+		// 홈페이지에서 수졍
+		System.out.println("admin~~~");
 	}
 }
