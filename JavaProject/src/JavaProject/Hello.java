@@ -11,5 +11,8 @@ public class Hello {
 		
 		System.out.println("팀원이 수정하면..");
 		System.out.println("팀원이 수정하면2..");
+
+		// 홈페이지에서 수졍
+		System.out.println("admin~~~");
 	}
 }
