@@ -10,5 +10,6 @@ public class Hello {
 		
 		
 		System.out.println("팀원이 수정하면..");
+		System.out.println("팀원이 수정하면2..");
 	}
 }
